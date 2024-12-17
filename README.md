@@ -5,4 +5,5 @@ My name is Arsen Koshparenko and I'm the grade 10 student at [St. Mother Teresa 
 
 ## 🔧 Programing languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6)
 
